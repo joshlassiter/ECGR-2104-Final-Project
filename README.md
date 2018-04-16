@@ -1,6 +1,13 @@
 # ECGR-2104-Final-Project
 Gin Rummy game outline
-
+Cards -----Class
+	Ace=1
+	2=2
+	...
+	Jack=11
+	Queen=12
+	King=13
+	
 Classes needed
 	
 	Card (maybe a struct)
